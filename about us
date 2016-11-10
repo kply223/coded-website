@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>About Us</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <style>
+  @import url('https://fonts.googleapis.com/css?family=Gravitas+One|Lora:700|Playfair+Display|Roboto:700|Shrikhand');
+  </style>
+<style>
+  h1{
+    font-family: 'Shrikhand', cursive;
+  }
+
+  .subheader{
+    font-family: 'Lora', serif;
+  }
+
+  .text{
+    font-family: 'Playfair Display', serif;
+    margin: 30px;
+    font-size: 35px;
+  }
+</style>
+
+</head>
+<body>
+
+<div class="jumbotron text-center">
+  <h1>About Us</h1>
+  <p class="subheader">
+    let's <em>taco</em> bout it
+  </p>
+  </div>
+<center><p class="text">Marty's Market opened it's doors for the first time in 1976. Although our branding has changed, our integrity has stayed the same. Since our grand opening, we have promised to give our customers the best, and most fresh produce, meats, cheese's, and even desserts in all of our 17 locations. Come visit us to experience our fresh food options as well as browse our market! We'd love for you to bring our fresh and natural food options to your own table. <em>Happy food, happy family.</em><center>
+
+&nbsp;
+  <center><img src="about.jpg" width="1366px" height="768px" alt="about us"/></center>
+
+  &nbsp;
+  <div id="nav"><a href="file:///Users/Kirsten/Desktop/landing">Home</a> | <a href="file:///Users/Kirsten/Desktop/menu">Menu</a> | <a href="file:///Users/Kirsten/Desktop/about%20us">About Us</a>

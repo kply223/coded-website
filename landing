@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Home</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <link href="<link href="<link href="<link href="<link href="https://fonts.googleapis.com/css?family=Gravitas+One|Lora:700|Playfair+Display|Roboto:700" rel="stylesheet">
+  <style>
+  @import url('https://fonts.googleapis.com/css?family=Gravitas+One|Lora:700|Playfair+Display|Roboto:700|Shrikhand');
+  </style>
+</head>
+<body>
+
+<style>
+  h1{
+    font-family: 'Shrikhand', cursive;
+  }
+
+  .subheader{
+    font-family: 'Lora', serif;
+  }
+
+  #nav{
+    text-align: center;
+  }
+</style>
+
+<div class="jumbotron text-center">
+  <h1>Marty's Market</h1>
+  <p class="subheader">
+    have a <em>gouda</em> day
+</p>
+</div>
+
+
+  </body>
+</html>
+<html>
+  <head>
+    <title>
+      Images images Images
+    </title>
+  </head>
+  <body>
+
+    <img src="marketladingimage.jpg" width="1366px" height="768px" alt="martys"/>
+
+
+    <div id="nav">
+      <a href="file:///Users/Kirsten/Desktop/landing">Home</a> | <a href="file:///Users/Kirsten/Desktop/menu">Menu</a> | <a href="file:///Users/Kirsten/Desktop/about%20us">About Us</a>
+    </div>
+
+  </body>
+</html>

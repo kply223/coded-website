@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Menu</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link href="<link href="<link href="<link href="<link href="https://fonts.googleapis.com/css?family=Gravitas+One|Lora:700|Playfair+Display|Roboto:700" rel="stylesheet">
+    <style>
+    @import url('https://fonts.googleapis.com/css?family=Gravitas+One|Lora:700|Playfair+Display|Roboto:700|Shrikhand');
+    </style>
+  <style>
+    h1{
+      font-family: 'Shrikhand', cursive;
+    }
+
+    h2{
+      margin-top: 40px;
+      font-family: 'Lora', serif;
+      font-size: 30px;
+      text-align: center;
+    }
+
+    h3{
+      font-family: 'Lora', serif;
+      font-size: 20px;
+    }
+
+    .subheader{
+      text-align: center;
+      font-family: 'Lora', serif;
+    }
+
+    #nav{
+      text-align: center;
+    }
+
+    .text{
+      font-family: 'Playfair Display', serif;
+    }
+
+  </style>
+</head>
+<body>
+
+<div class="jumbotron text-center">
+  <h1>Menu</h1>
+  <p class="subheader">
+    we make a nice <em>pear</em>
+</p>
+</div>
+
+<h2>Fresh Salad</h2>
+
+<p class="subheader">
+  <em>lettuce</em> celebrate
+</p>
+
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm-4">
+      <h3>Le Parisan Salad ($12)</h3>
+      <p class="text">
+        smoked turkey, brie and apple chutney atop fresh
+      </p>
+      <p class="text">
+        arugula with a balsamic vinaigrette
+      </p>
+    </div>
+    <div class="col-sm-4">
+      <h3>Mediterranean Salad ($13)</h3>
+      <p class="text">
+        grilled vegetables, feta cheese, onions, olives,
+      </p>
+      <p class="text">
+        and tomatoes atop fresh romaine lettuce with our
+      </p>
+      <p class="text">
+        house tzatziki dressing
+      </p>
+    </div>
+    <div class="col-sm-4">
+      <h3>Loaded Steak Salad ($15)</h3>
+      <p class="text">
+        steak with onions, candied bacon and cheddar atop
+      </p>
+      <p class="text">
+        mixed greens with out special honey BBQ dressing
+      </p>
+    </div>
+  </div>
+</div>
+
+
+  <h2>Homemade Soup</h2>
+
+  <p class="subheader">
+    you make <em>miso</em> happy
+  </p>
+
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm-4">
+      <h3>Frenchie ($6)</h3>
+      <p class="text">
+        classic french onion soup, shredded cheese, and
+      </p>
+      <p class="text">
+        baked with homemade puff pastry on top
+      </p>
+    </div>
+    <div class="col-sm-4">
+      <h3>Cucumber ($4)</h3>
+      <p class="text">
+        chilled cucumber soup with your choice
+      </p>
+      <p class="text">
+        of cheese
+      </p>
+    </div>
+    <div class="col-sm-4">
+      <h3>Potato Head ($6)</h3>
+      <p class="text">
+        cheesy potato soup- a perfect pair to our
+      </p>
+      <p class="text">
+        loaded steak salad
+      </p>
+    </div>
+  </div>
+</div>
+
+<div id="nav">
+  <a href="file:///Users/Kirsten/Desktop/landing">Home</a> | <a href="file:///Users/Kirsten/Desktop/menu">Menu</a> | <a href="file:///Users/Kirsten/Desktop/about%20us">About Us</a>
+</div>
+
+</body>
+</html>
